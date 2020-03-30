@@ -2,7 +2,7 @@
     <img alt="Be The hero" src="https://user-images.githubusercontent.com/47838241/77866996-bc71c200-720b-11ea-85ec-3ec47bc95b87.png"/>
 </h1>
 
-<p align="center">Aplicacão completa que possibilita pessoas ajudarem financeiramente casos cadastrados por ONG's que estão registaradas no app.</p>
+<p align="center">Aplicacão completa  feita durante a Semana Omnistack que possibilita pessoas ajudarem financeiramente casos cadastrados por ONG's que estão registaradas no app.</p>
 
 Desenvolvido em:
 * :rocket: Frontend: React.js
